@@ -1,3 +1,12 @@
-.center-stage{
+p {
+    font-family: 'Russo One', sans-serif;
+    font-size: 1.5em;
+}
+
+.center-stage {
     margin: auto;
+}
+
+.postdate {
+    text-align: center;
 }
